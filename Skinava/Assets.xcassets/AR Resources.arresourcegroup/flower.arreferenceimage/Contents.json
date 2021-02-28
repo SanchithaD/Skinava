@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "clark-van-der-beken-1550oP8uzqk-unsplash.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "width" : 40
+  }
+}
