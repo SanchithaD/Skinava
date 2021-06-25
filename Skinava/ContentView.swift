@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Skinava
 //
-//  Created by Akila Varadarajan on 2/27/21.
+//  Created by Sanchitha Dinesh on 2/27/21.
 //
 
 import SwiftUI
